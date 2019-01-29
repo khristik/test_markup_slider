@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1222 21" width="1222" height="21">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #FED559 } 
+	</style>
+	<g id="Page 1">
+		<path id="Path 1" class="shp0" d="M607.34,6.64l-7.78,1.13l5.63,5.48l-1.33,7.74l6.95,-3.66l6.95,3.66l-1.33,-7.74l5.63,-5.48l-7.78,-1.13l-3.48,-7.04zM0,12.33v1.91h601.72l-1.96,-1.91zM621.86,12.33l-1.96,1.91h601.72v-1.91z" />
+	</g>
+</svg>

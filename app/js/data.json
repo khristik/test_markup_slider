@@ -1,0 +1,9 @@
+{
+	"test" : "test",
+	"test" : "test",
+	"links" : [
+ 		{"blog1" : "http://google.com.ua"},
+        {"blog2" : "http://google.com.ua"},
+        {"blog3" : "http://google.com.ua"}
+         		]
+};
